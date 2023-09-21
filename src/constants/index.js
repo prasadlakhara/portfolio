@@ -31,6 +31,8 @@ import {
   threebears,
 } from "../assets";
 
+import hotelh from "../assets/testimonial/hotelh.png";
+
 export const navLinks = [
   {
     id: "about",
@@ -163,11 +165,11 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Prasad proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Exceptional website development! Captured the essence of Hotel H's charm and elegance perfectly. Highly recommend for web design services",
+    name: "Hiren Patel",
+    designation: "CEO",
+    company: "Hotel H",
+    image: hotelh,
   },
   {
     testimonial:

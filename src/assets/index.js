@@ -37,6 +37,8 @@ import hrbingo from "./hrbingo.png";
 import askai from "./askai.png";
 import threebears from "./threebears.png";
 
+import hotelh from "./testimonial/hotelh.png";
+
 export {
   logo,
   behance,
