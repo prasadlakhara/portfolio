@@ -255,6 +255,50 @@ const projects = [
     source_code_link:
       "https://www.behance.net/gallery/179035999/Chatbot-Mobile-App-Ask-AI",
   },
+  {
+    name: "ASK | AI",
+    description:
+      "It ia a mobile app leveraging AI technology for engaging conversations, enabling users to interact seamlessly with AI. Just like ChatGPT.",
+    tags: [
+      {
+        name: "figma",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ai",
+        color: "green-text-gradient",
+      },
+      {
+        name: "chatgpt",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: askai,
+    source_code_link:
+      "https://www.behance.net/gallery/179035999/Chatbot-Mobile-App-Ask-AI",
+  },
+  {
+    name: "ASK | AI",
+    description:
+      "It ia a mobile app leveraging AI technology for engaging conversations, enabling users to interact seamlessly with AI. Just like ChatGPT.",
+    tags: [
+      {
+        name: "figma",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ai",
+        color: "green-text-gradient",
+      },
+      {
+        name: "chatgpt",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: askai,
+    source_code_link:
+      "https://www.behance.net/gallery/179035999/Chatbot-Mobile-App-Ask-AI",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
